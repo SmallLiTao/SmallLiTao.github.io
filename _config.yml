@@ -104,4 +104,4 @@ theme: keep
 deploy:
   type: 'git'
   repo: git@github.com:SmallLiTao/SmallLiTao.github.io.git
-  branch: main
+  branch: deploy
